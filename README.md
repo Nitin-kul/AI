@@ -2,7 +2,8 @@
 
 First recognise your face.\n
 Add your face image in face folder and main.py 
-![Screenshot 2024-06-24 123308](https://github.com/Nitin-kul/AI/assets/147025418/ad418d7a-1923-4998-942e-d8d5fb53d919)
+![Screenshot 2024-06-24 123426](https://github.com/Nitin-kul/AI/assets/147025418/9b1e45c9-d73a-406c-95a1-70c97e4a47bf)
+
 
 Then AI waiting your command:
 ![Screenshot 2024-06-24 113142](https://github.com/Nitin-kul/AI/assets/147025418/a440f04d-4f57-406a-b4ee-9c6d3f372cd0)
